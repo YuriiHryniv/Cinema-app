@@ -1,7 +1,7 @@
 
 ![logo](pngs/logo.png)
 # Cinema-app
-___
+
 
 ### 📚 Project Description
 ___
